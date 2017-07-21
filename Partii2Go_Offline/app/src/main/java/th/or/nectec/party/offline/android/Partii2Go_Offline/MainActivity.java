@@ -14,8 +14,8 @@ import android.widget.TextView;
 
 import java.io.File;
 
-import th.or.nectec.partii.embed.android.EmbeddedUtils.Constant;
-import th.or.nectec.partii.embed.android.EmbeddedUtils.ModelUtil;
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.Constant;
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.ModelUtil;
 import th.or.nectec.partii.embedded.android.RecognitionListener;
 import th.or.nectec.partii.embedded.android.SpeechRecognizer;
 

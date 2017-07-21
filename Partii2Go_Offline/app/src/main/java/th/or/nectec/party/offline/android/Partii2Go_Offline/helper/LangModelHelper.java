@@ -11,11 +11,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.EditText;
 
-import th.or.nectec.partii.embed.android.EmbeddedUtils.Constant;
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.Constant;
 
 import java.io.File;
 
-import th.or.nectec.partii.embed.android.EmbeddedUtils.ModelUtil;
+import th.or.nectec.partii.embedded.android.EmbeddedUtils.ModelUtil;
 import th.or.nectec.party.offline.android.Partii2Go_Offline.R;
 
 import android.support.v7.app.AppCompatActivity;
